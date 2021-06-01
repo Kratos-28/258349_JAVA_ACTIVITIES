@@ -1,4 +1,4 @@
-package Question_2.Question_1;
+
 class FourWheeler extends Vehicle {
     private String audioSystem;
     private int numberOfDoors;
